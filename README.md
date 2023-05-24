@@ -1,9 +1,21 @@
-<h1>iPhone 14 - Projeto</h1>
+<h1> iPhone 14 :iphone: </h1>
 <br>
-<p>Aplicação de venda do celular iPhone.</p>
-<p>Utilizando as tecnologias de HTML, CSS e a linguagem JavaScript. Com o editor de código VS Code.</p>
-<p>Foram incluídos títulos, parágrafo, botões, link, imagens e animação no momento de clicar nos botões.</p>
+
+<h2> Este foi o projeto que aprendi no curso do DevClub </h2>
+<p> Aplicação de landing page imitando partes do site do celular iPhone 14. </p>
+<p> Foram incluídos títulos, parágrafos, botões, links, imagens e animação no momento de clicar nos botões. </p>
 <br>
-<h4>Veja o resultado!</h4>
+
+<h3> Neste projeto foram utilizados: </h3>
+  - HTML 
 <br>
-<video src="https://github.com/dornascarol/Terceiro-projeto/blob/master/video/iPhone%20-%20Apple%20(Brasil)%20Projeto.mp4" controls controlsList="nodownload"></video>
+  - CSS
+<br>
+  - JavaScript
+<br>
+  - VS Code 
+<br>
+<br>
+<div align="center">
+  <a href="https://github.com/dornascarol/iPhone14/blob/master/video/iPhone%20-%20Apple%20(Brasil)%20Projeto_cortado.mp4"> <img width="80%" src="https://github.com/dornascarol/iPhone14/blob/master/img/Projeto.png?raw=true"/> </a>
+</div>
