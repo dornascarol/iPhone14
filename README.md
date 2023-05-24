@@ -7,13 +7,13 @@
 <br>
 
 <h3> Neste projeto foram utilizados: </h3>
-  - HTML 
+  * HTML 
 <br>
-  - CSS
+  * CSS
 <br>
-  - JavaScript
+  * JavaScript
 <br>
-  - VS Code 
+  * VS Code 
 <br>
 <br>
 <div align="center">
